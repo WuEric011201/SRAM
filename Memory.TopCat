@@ -1,0 +1,6 @@
+TDMCHECKPOINT="1.0"
+Memory/6T.Cat type="category"
+Memory/BL_reset.Cat type="category"
+Memory/SRAM.Cat type="category"
+Memory/Sense_Amp.Cat type="category"
+Memory/cellarray.Cat type="category"

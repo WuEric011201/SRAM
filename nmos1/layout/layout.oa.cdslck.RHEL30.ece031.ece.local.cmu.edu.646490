@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      tongwu2
+HostName                       ece031.ece.local.cmu.edu
+ProcessIdentifier              646490
+ProcessCreationTime_UTC        1726591806
+ProcessCreationTime_Readable   Tue Sep 17 12:50:06 2024 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /afs/ece.cmu.edu/usr/tongwu2/cadence/gpdk045_virtuoso/Memory/nmos1/layout/layout.oa.cdslck
+TimeEditLocked                 Tue Sep 17 12:50:46 2024 EDT

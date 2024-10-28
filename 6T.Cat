@@ -1,0 +1,6 @@
+TDMCHECKPOINT="1.0"
+Memory/6TSRAM_rule_violate type="cell"
+Memory/6T_SRAM_small type="cell"
+Memory/6T_SRAM_tall type="cell"
+Memory/SNM type="cell"
+keepEmptyCategory type="unknown"

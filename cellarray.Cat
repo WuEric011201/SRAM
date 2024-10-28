@@ -1,0 +1,6 @@
+TDMCHECKPOINT="1.0"
+Memory/128by64 type="cell"
+Memory/128by64_TB type="cell"
+Memory/SRAM_row type="cell"
+Memory/SRAM_row_tb type="cell"
+keepEmptyCategory type="unknown"

@@ -1,0 +1,4 @@
+TDMCHECKPOINT="1.0"
+Memory/6T_SRAM_tall type="cell"
+Memory/6T_SRAM_test type="cell"
+keepEmptyCategory type="unknown"

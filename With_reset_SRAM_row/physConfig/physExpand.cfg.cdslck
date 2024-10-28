@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      tongwu2
+HostName                       ECE030.ece.local.cmu.edu
+ProcessIdentifier              1534671
+ProcessCreationTime_UTC        1727795482
+ProcessCreationTime_Readable   Tue Oct  1 11:11:22 2024 EDT
+AppIdentifier                  /usr/cds/ic-6.18/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /afs/ece.cmu.edu/usr/tongwu2/cadence/gpdk045_virtuoso/Memory/SRAM_row/physConfig/physExpand.cfg
+TimeEditLocked                 Tue Oct  1 11:49:04 2024 EDT

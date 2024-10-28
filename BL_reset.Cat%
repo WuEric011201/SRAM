@@ -1,0 +1,5 @@
+TDMCHECKPOINT="1.0"
+Memory/bl_reset_single_tb type="cell"
+Memory/bl_rest_full type="cell"
+Memory/bl_rest_singleCol type="cell"
+keepEmptyCategory type="unknown"

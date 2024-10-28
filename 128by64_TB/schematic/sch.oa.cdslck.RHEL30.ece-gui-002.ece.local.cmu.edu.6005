@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      dchinmay
+HostName                       ece-gui-002.ece.local.cmu.edu
+ProcessIdentifier              6005
+ProcessCreationTime_UTC        1729479281
+ProcessCreationTime_Readable   Sun Oct 20 22:54:41 2024 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /afs/andrew.cmu.edu/usr6/dchinmay/private/Srimani_Lab/Cadence/gpdk045_virtuoso8/Memory/128by64_TB/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sun Oct 20 22:55:46 2024 EDT
